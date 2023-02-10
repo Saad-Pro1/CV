@@ -1,3 +1,5 @@
+/* @import "contact-style.css"; */
+
 body{
  color: #40514E;
  margin: 0;
@@ -178,3 +180,5 @@ a:hover{
  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
  text-decoration: none;
 }
+
+
